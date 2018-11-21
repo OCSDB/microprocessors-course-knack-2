@@ -60,9 +60,11 @@ Now in the IDE, when you pull down “File” and hover over “Sketchbook” th
 
 4.Install the Nano, LED, resistor, push button switch, and connecting wires as shown below
 
-5.Load the program “SimpleToggle_PB_LED” to toggle the LED with the switch. In other words, press once to change the state of the LED. Examine the program.
+5.Load the program “Simple_PB_LED” to toggle the LED with the switch. In other words, press once to change the state of the LED. Examine the program.
 
-6. Carefully examine the operation of this program. It will not work in a reliable manner.
+6.Load the program “SimpleToggle_PB_LED” to toggle the LED with the switch. In other words, press once to change the state of the LED. Examine the program.
+
+7. Carefully examine the operation of this program. It will not work in a reliable manner.
 Your task will be to rewrite the program to make it reliable.
 
 ## Teminology
