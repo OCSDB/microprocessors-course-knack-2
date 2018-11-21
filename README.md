@@ -62,9 +62,7 @@ Now in the IDE, when you pull down “File” and hover over “Sketchbook” th
 
 5.Load the program “SimpleToggle_PB_LED” to toggle the LED with the switch. In other words, press once to change the state of the LED. Examine the program.
 
-6.Load the program “SimpleToggle_PB_LED” to toggle the LED with the switch. In other words, press once to change the state of the LED. Examine the program.
-
-7. Carefully examine the operation of this program. It will not work in a reliable manner.
+6. Carefully examine the operation of this program. It will not work in a reliable manner.
 Your task will be to rewrite the program to make it reliable.
 
 ## Teminology
@@ -101,6 +99,4 @@ void loop() {
 As does all Arduino programs, the first function sets up the Nano configuration. In this case the serial port is turned on. Usually, the Nano starts running the program as soon as it is loaded. But when the serial port is turned on, the program does not run until the Serial Monitor is opened so that you can see all the output from the program from the very beginning.
 
 The loop function loops continuously. It’s the “motor” of the processor. It prints out the value of
-the millis() function once a second. Examining this output might help you understand what it does.  
-	
-a
+the millis() function once a second. Examining this output might help you understand what it does. 
