@@ -103,3 +103,4 @@ As does all Arduino programs, the first function sets up the Nano configuration.
 The loop function loops continuously. It’s the “motor” of the processor. It prints out the value of
 the millis() function once a second. Examining this output might help you understand what it does.  
 	
+a
